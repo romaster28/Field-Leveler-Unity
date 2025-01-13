@@ -1,0 +1,8 @@
+{
+    "name": "com.dementorssrank.fieldleveler",
+    "displayName": "Field Leveler",
+    "version": "1.0.0",        
+    "description": "Align field elements in grid.",
+    "dependencies": {},
+    "keywords": [ "Utility", "Tool" ]
+}
